@@ -1,5 +1,4 @@
-# Assignment2
-CHIARA VENTURI matr. VR504017
+# Assignment2 CHIARA VENTURI matr. VR504017
 For this assignment I choose to solve the first case.
 The project focuses on developing a text processing system capable of handling large inputs that exceeds an LLM max input size, using Python.
 The code begins by defining the maximum length of the text context window and the size of the overlap for processing text segments.
